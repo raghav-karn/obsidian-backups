@@ -25,5 +25,3 @@ Aiden later rebirths as a baby with the powers of the demon soul, but later dies
 His heart is still preserved in Museo de la Oscuridad. Its darkness is still not dead, for it being a part of Aiden and is immortal. It is under the highest security ever, as it may start "The Great Civil War II"
 
 > [[Plotline]]
-
-CHANGE
