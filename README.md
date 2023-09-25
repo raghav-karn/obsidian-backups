@@ -1,2 +1,2 @@
 # Obsidian backup repo
-## GitHub
+## Git
