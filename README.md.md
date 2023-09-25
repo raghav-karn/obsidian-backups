@@ -1,1 +1,0 @@
-# Obsidian git backup repo
