@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"type":"group","id":"d695f02eab2200c1","x":-227,"y":-895,"width":826,"height":1321,"color":"3","label":"Untitled group"},
+		{"type":"file","file":"The Darkness Never Ends/Part 1/Part 1 – Chapter 2.md","id":"dc9d41530fbde3e4","x":-92,"y":-720,"width":520,"height":361,"color":"4"},
+		{"type":"link","url":"https://www.raghav-karn.github.io/mochii","id":"81318daefc1f2f6c","x":-92,"y":-117,"width":520,"height":380,"color":"5"},
+		{"id":"94c103401239616c","x":43,"y":73,"width":250,"height":60,"type":"text","text":"hudy"}
+	],
+	"edges":[
+		{"id":"50e562f1fb63be05","fromNode":"dc9d41530fbde3e4","fromSide":"bottom","toNode":"81318daefc1f2f6c","toSide":"top","color":"1"}
+	]
+}
